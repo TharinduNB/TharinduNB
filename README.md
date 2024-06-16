@@ -40,11 +40,11 @@ I am an Environmental Analyst, Data Analyst, and PhD student in Marine Ecology w
 
 ## Contact Me
 
-- Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharinduacademia@hotmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-bandara-9aa58b44)
-- Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/tharinduTW)
-- Google Scholar: [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en)
-- ORCID: [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7211-6374)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharinduacademia@hotmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-bandara-9aa58b44)
+- [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/tharinduTW)
+- [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en)
+- [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7211-6374)
 
 ## GitHub Stats
 
