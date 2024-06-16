@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an Environmental Analyst, Data Analyst, and PhD student in Marine Ecology with a passion for understanding and conserving our oceans. My expertise lies in using data to uncover ecological patterns and inform conservation strategies.
+I am an environmental analyst, data analyst, and PhD student in Marine Ecology with a passion for understanding the food web dynamics in marine ecosystems. In my PhD studies, I often use fatty acids and stable isotopes data to understand climate change impacts in marine ecosystems. 
 
 ## Education
 
