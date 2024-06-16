@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Welcome to My GitHub Profile!
+# Hi there, My name is Tharindu Bandara 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
@@ -11,6 +8,18 @@
 
 I am an Environmental Analyst, Data Analyst, and PhD student in Marine Ecology with a passion for understanding and conserving our oceans. My expertise lies in using data to uncover ecological patterns and inform conservation strategies.
 
+## Education
+
+- ![PhD](https://img.shields.io/badge/-PhD-4B0082?style=flat-square&logo=graduation-cap&logoColor=white) **PhD in Marine Ecology**
+  - *Umeå University, Umeå, Sweden*, 2020-Present
+  - Thesis: *Climate change impacts on marine food web quality and efficiency*
+
+- ![MSc](https://img.shields.io/badge/-MSc-8A2BE2?style=flat-square&logo=graduation-cap&logoColor=white) **MSc in Aquaculture**
+  - *Nord University, Bodø, Norway*, 2015-2017
+
+- ![BSc](https://img.shields.io/badge/-BSc-1E90FF?style=flat-square&logo=graduation-cap&logoColor=white) **BSc in Fishereis and Marine Sciences**
+  - *University of Ruhuna, Matara, Sri Lanka*, 2008-2012
+    
 ## Skills
 
 ### Programming Languages
@@ -22,6 +31,7 @@ I am an Environmental Analyst, Data Analyst, and PhD student in Marine Ecology w
 ![Univariate Analysis](https://img.shields.io/badge/-Univariate_Analysis-4CAF50?style=flat-square)
 ![Multivariate Analysis](https://img.shields.io/badge/-Multivariate_Analysis-4CAF50?style=flat-square)
 ![JMP](https://img.shields.io/badge/-JMP-007DB8?style=flat-square&logo=jmp&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### Data Visualization and Graphical Software
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
@@ -30,11 +40,11 @@ I am an Environmental Analyst, Data Analyst, and PhD student in Marine Ecology w
 
 ## Contact Me
 
-- Email: [tharinduacademia@hotmail.com](mailto:tharinduacademia@hotmail.com)
-- LinkedIn: [Tharindu Bandara](www.linkedin.com/in/tharindu-bandara-9aa58b44)
-- Twitter: [Tharindu Bandara](https://mobile.twitter.com/tharinduTW)
-- Google Scholar: [Tharindu Bandara]([https://scholar.google.com/citations?user=yourprofileid](https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en)
-- ORCID: [Your ORCID Profile](https://orcid.org/0000-0002-7211-6374)
+- Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharinduacademia@hotmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-bandara-9aa58b44)
+- Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://mobile.twitter.com/tharinduTW)
+- Google Scholar: [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en)
+- ORCID: [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7211-6374)
 
 ## GitHub Stats
 
@@ -45,5 +55,3 @@ I am an Environmental Analyst, Data Analyst, and PhD student in Marine Ecology w
 
 Feel free to reach out if you have any questions or if you are interested in collaborating on a project!
 
----
->
